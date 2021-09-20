@@ -1,9 +1,8 @@
 # Run_For_Life
 Strive School Build Week 2 Project
 
-## A product by Team GoogleFit
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLGiada5O-NcK23jD9MsHJJ9uzmJ9C5qoKg&usqp=CAU "Logo Title Text 1")
+![alt text](https://www.ft.com/__origami/service/image/v2/images/raw/https://d1e00ek4ebabms.cloudfront.net/production/6911fc1a-b440-4a95-b91d-00644192aff8.jpg?source=next&fit=scale-down&quality=highest&width=1067 "Logo Title Text 1")
 
 
 
