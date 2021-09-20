@@ -25,7 +25,7 @@ The categories of journey we are trying to classify are;
 
 ### THE DATA
 
-We used a set of 229151 sensor readings taken from 100's of different journeys to train our model. The data set we used can be seen [(https://www.researchgate.net/profile/Charith-Perera-2) here.]
+We used a set of 229151 sensor readings taken from 100's of different journeys to train our model. The data set we used can be seen [**here.**](https://www.researchgate.net/profile/Charith-Perera-2) 
 
 ![alt text](https://www.researchgate.net/profile/Charith-Perera-2/publication/234017923/figure/fig2/AS:667614586101765@1536183129256/Sensors-in-Mobile-Phones.png "Logo Title Text 1")
 
