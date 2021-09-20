@@ -37,7 +37,6 @@ it's true meaning.
 
 In later production when we take live data from a device this step will not be necessary. I did it at this stage of development to replicate sequential sensor readings as the original data sometimes is not correctly ordered.
 
-![alt text](https://files.realpython.com/media/How-to-Plot-With-Pandas_Watermarked.f283f64b4ae3.jpg "Logo Title Text 1")
 
 
 ### DATA LEAKS
