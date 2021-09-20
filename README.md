@@ -29,6 +29,7 @@ I used a set of 229151 sensor readings taken from 100's of different journeys to
 ![alt text](https://www.researchgate.net/profile/Charith-Perera-2/publication/234017923/figure/fig2/AS:667614586101765@1536183129256/Sensors-in-Mobile-Phones.png "Logo Title Text 1")
 
 
+
 ### WHAT I DID WITH THE DATA
 
 I first ran some functions on the data to decide where a recording started and ended, this would prove vital
